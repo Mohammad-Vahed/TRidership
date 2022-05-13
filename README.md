@@ -1,1 +1,2 @@
-# TRidership
+# T-Ridership
+T-Ridership is a novel web-based application, based on a hybrid optimized dynamic programming inspired by neural networks algorithm to optimize public transit for safety concerning COVID-19. Two main steps are taken in the analysis: the first is detecting high-density stations by input data normalization, and then, using these results, the T-Ridership tool automatically determines optimal station order to avoid overcrowded transit vehicles. Effectively, our proposed web tool helps public transit be safe to ride under risk of infections by reducing the density of riders on public transit vehicles and trip duration.  

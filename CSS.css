@@ -1,0 +1,31 @@
+﻿body {
+    background: #b6b7bc;
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+.grid-container {
+    display: grid;
+    grid-row-gap: 70px;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgb(255, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.as_td tr td {
+    table-layout:fixed;
+    width: 60px;
+    border:1px solid red;
+    text-align: left;
+    font-size: small;
+}
+
